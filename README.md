@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name is Kevin Letkeman and I'm from Canada, Ontario 👋
+##Proficient with - C++/C#/Java/Python/SQL/HTML/CSS/PHP/JavaScript
 
 <!--
 **kmletkeman/kmletkeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
